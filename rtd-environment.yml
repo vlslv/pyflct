@@ -10,6 +10,8 @@ dependencies:
   - fftw
   - gcc_linux-64
   - pip:
+    - numpy
+    - cython
     - sphinx-astropy
     - sphinx-gallery
     - sunpy-sphinx-theme
